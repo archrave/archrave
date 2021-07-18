@@ -28,8 +28,6 @@ I'm a game development enthusiast and I love exploring and learning about all th
 <a href="https://www.hackerrank.com/divyanshjoshi20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divyanshjoshi20" height="30" width="40" /></a>
 </p>
 
-
-
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=archrave&show_icons=true)  
@@ -37,3 +35,6 @@ I'm a game development enthusiast and I love exploring and learning about all th
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=archrave)  
 
+### Spotify Playing 🎧:
+
+[![Spotify](https://novatorem-sage-nine.vercel.app/api/spotify)](https://open.spotify.com/user/6jugxn441mmsedn3b6erhdina)
