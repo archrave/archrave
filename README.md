@@ -35,8 +35,9 @@ I'm a game development enthusiast and I love exploring and learning about all th
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=archrave)  
 
+<!---
 ### Spotify Playing 🎧:
-<!--- 
+ 
 [<img src = "https://novatorem-archrave.vercel.app/api/spotify-playing" alt = "Divyansh's Spotify Playing" width="350" />](https://open.spotify.com/user/6jugxn441mmsedn3b6erhdina)
 
 [![Spotify](novatorem-archrave.vercel.app)](https://open.spotify.com/user/6jugxn441mmsedn3b6erhdina)  ---> 
