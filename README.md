@@ -30,10 +30,10 @@ I'm a game development enthusiast and I love exploring and learning about all th
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=archrave&show_icons=true&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=archrave&show_icons=true&theme=tokyonight&hide_border=true)  
 <br>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=archrave&theme=dark)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=archrave&theme=tokyonight&hide_border=true)  
 
 <!---
 ### Spotify Playing 🎧:
