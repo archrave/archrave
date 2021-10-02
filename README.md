@@ -35,6 +35,9 @@ I'm a game development enthusiast and I love exploring and learning about all th
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=archrave&theme=tokyonight&hide_border=true)  
 
+<br>
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=archrave&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="archrave" /></p> -->
 <!---
 ### Spotify Playing 🎧:
  
