@@ -6,7 +6,7 @@ I'm a game development enthusiast and I love exploring and learning about all th
 - 🧑‍🤝‍🧑 I'm open to collaborate on any open source Unity or Flutter projects
 - 🤖 Worked on Blender in creating animations and tweaking 3D models
 - 💻 I primarily code in C++!
-- 📱 Currenty working on mobile app development with Flutter framework
+- 📱 Currenty working on cross platform development using Flutter framework
 
 <br>
 
