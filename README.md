@@ -2,7 +2,7 @@
 
 I'm a game development enthusiast and I love exploring and learning about all the latest tools and technologies in this domain!
 
-- 🎮 I've worked broadly in Unity Engine and C#
+- 🎮 I've worked broadly in Unity Engine and Flutter development.
 - 🧑‍🤝‍🧑 I'm open to collaborate on any open source Unity or Flutter projects
 - 🤖 Worked on Blender in creating animations and tweaking 3D models
 - 💻 I primarily code in C++!
