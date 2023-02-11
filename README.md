@@ -1,12 +1,11 @@
  ## Hey there, This is Divyansh 👋
 
-I'm a game development enthusiast and I love exploring and learning about all the latest tools and technologies in this domain!
+I'm a mobile app developer and I've also worked extensively in 3D game development.
 
-- 🎮 I've worked broadly in Unity Engine and Flutter development.
-- 🧑‍🤝‍🧑 I'm open to collaborate on any open source Unity or Flutter projects
+- 🎮 I've worked broadly in Unity Engine and Flutter.
+- 🧑‍🤝‍🧑 Open to collaborate on any open source Unity or Flutter projects
 - 🤖 Worked on Blender in creating animations and tweaking 3D models
-- 💻 I primarily code in C++!
-- 📱 Currenty working on cross platform development using Flutter framework
+- 💻 I primarily solve coding problems in C++!
 
 <br>
 
