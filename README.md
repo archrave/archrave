@@ -1,7 +1,7 @@
  ## Hey there, This is Divyansh 👋
 
 
-I'm a web and a mobile app developer with a keen interest and experience in DevOps as well. I've also worked extensively in 3D game development.
+I'm a web and a mobile app developer with a keen interest and experience in DevOps as well. I've also worked extensively in 3D game development. Most of the my open projects on this account are Andriod/iOS apps and a few 3D games.
 
 - 🎮 I've worked broadly in Unity Engine and Flutter.
 - 🤖 Worked on Blender in creating animations and tweaking 3D models
